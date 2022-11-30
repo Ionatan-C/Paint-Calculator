@@ -1,5 +1,5 @@
 # Paint-Calculator
-calculates the amount of paint required
+calculates the amount of paint required finished in 38 minutes.
 
 Just setup JDK Build and run and it should work- I did use Intellij IDEA Community Edition.
 
