@@ -1,5 +1,5 @@
 # Paint-Calculator
-calculates the amount of paint required finished in 38 minutes with that extra part and without it took 30 minutes.
+calculator of the amount of paint required finished in 45 minutes with that extra part and without it took 35 minutes.
 
 Just setup JDK Build and run and it should work- I did use Intellij IDEA Community Edition.
 
