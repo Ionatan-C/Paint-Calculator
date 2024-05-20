@@ -1,3 +1,8 @@
+/*==========================================
+; Title:  Paint Calculator
+; Author: Ionatan Cegodari
+==========================================*/
+
 import java.util.Scanner;
 
 public class Measurements {
@@ -33,7 +38,7 @@ public class Measurements {
 
         float twoCoats = paintRequired * 2;//calculations for 2 coats and assigns it to the two coats variable
 
-        System.out.println("The amount of paint that is going to be needed is " + twoCoats + " square meters in total for 2 coats and only is " + oneCoat + " in sqare meters.");
+        System.out.println("The amount of paint that is going to be needed is " + twoCoats + " square meters in total for 2 coats and it's only " + oneCoat + " in sqare meters.");
         //prints out the amount of paint needed
     }
 

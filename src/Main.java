@@ -1,3 +1,8 @@
+/*==========================================
+; Title:  Paint Calculator
+; Author: Ionatan Cegodari
+==========================================*/
+
 import java.util.Scanner;
 
 public class Main {
